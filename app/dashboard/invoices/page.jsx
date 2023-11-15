@@ -1,6 +1,6 @@
 
 export default function InvoicesPages() {
   return (
-    <div>Invoices Pages</div>
+    <div>Invoices Page</div>
   )
 }
