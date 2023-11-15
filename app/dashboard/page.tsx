@@ -1,6 +1,6 @@
 
 export default function page() {
   return (
-    <div>Dashboard Page</div>
+    <div>Contenido de esta paguina</div>
   )
 }
